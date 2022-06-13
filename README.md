@@ -1,6 +1,6 @@
 # React family tree with D3
 
-This project is a React website where a d3 family tree is being displayed. This project is using ericGartner's (https://github.com/ErikGartner/dTree). 
+This project is a React website where a d3 family tree is being displayed. This project is using ericGartner's dtree library build D3 (https://github.com/ErikGartner/dTree). 
 
 ## Installation
 
